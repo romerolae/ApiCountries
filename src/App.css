@@ -1,0 +1,27 @@
+img {
+	width: 200px;
+}
+.App {
+}
+
+.general-title {
+	text-align: center;
+}
+.card-container {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.card {
+	background-color: aqua;
+	border-radius: 10px;
+	width: min-content;
+	overflow: hidden;
+}
+
+.card-title {
+	color: white;
+	text-align: center;
+}
